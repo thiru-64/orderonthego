@@ -76,23 +76,41 @@ Efficient delivery coordination.
 Scalable and customizable architecture for future expansion.
 # PROJECT STRUCTURE
 /customer-app
+
 │
+
 ├── /screens
+
 │   ├── HomeScreen.js
+
 │   ├── RestaurantDetails.js
+
 │   ├── Cart.js
+
 │   ├── OrderTracking.js
+
 │   └── Profile.js
+
 │
+
 ├── /components
+
 │   ├── Header.js
+
 │   ├── MenuItem.js
+
 │   ├── RestaurantCard.js
+
 │   └── RatingStars.js
+
 │
+
 ├── /services
+
 │   └── api.js
+
 │
+
 └── App.js
 # LEARNING OUTCOMES 
 Learning Outcomes of Our On-Demand Food Ordering Solution
