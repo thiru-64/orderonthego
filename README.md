@@ -15,7 +15,6 @@ BATCH DURATION : 19th MAY 2025 TO 30th JUNE 2025
 # DESCRIPTION OF YOUR ON-DEMAND FOOD ORDERING SOLUTION
 
 Our on-demand food ordering solution is a user-friendly, technology-driven platform designed to connect customers with their favorite local restaurants and food outlets quickly and efficiently. The solution 
-
 provides a seamless experience across mobile and web platforms, allowing users to browse menus, place orders, make payments, and track deliveries in real time.
 
 Key Features:
