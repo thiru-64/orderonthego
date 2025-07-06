@@ -12,6 +12,10 @@ DOMAN: FULL STACK MERN DEVELOPER
 
 BATCH DURATION : 19th MAY 2025 TO 30th JUNE 2025
 
+#  PROJECT DOCUMENTATION
+(LINK)(https://github.com/user-attachments/files/21083919/food.ordering.app.doc.docx)
+
+
 # DESCRIPTION OF YOUR ON-DEMAND FOOD ORDERING SOLUTION
 
 Our on-demand food ordering solution is a user-friendly, technology-driven platform designed to connect customers with their favorite local restaurants and food outlets quickly and efficiently. The solution 
