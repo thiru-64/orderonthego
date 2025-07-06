@@ -154,6 +154,8 @@ Learning Outcomes of Our On-Demand Food Ordering Solution
 # output
 
 IMAGE (https://github.com/user-attachments/assets/75974688-ae41-4220-b1f9-ad5c744b5220)
+IMAGE (https://github.com/user-attachments/assets/b65febe2-7e77-4177-8a9d-ae420bbd295e)
+
 
 ** DEMO VIDEO **
 (https://github.com/user-attachments/assets/ff02b8d2-3c8d-437b-8ff0-3db46acefaff)
